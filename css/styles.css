@@ -1,0 +1,17 @@
+/* Basic styles for the platform */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#navbar, #footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+#content {
+    padding: 20px;
+}
